@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
-
+<br>
 <div> 
   <img src="https://github-readme-stats.vercel.app/api?username=sumin091&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin091&layout=compact" />
