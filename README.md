@@ -38,3 +38,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin&show_icons=true&theme=radical)
+
