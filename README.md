@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 <div> 
   <img src="https://github-readme-stats.vercel.app/api?username=sumin091&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin091" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin091&layout=compact" />
 </div>
 
