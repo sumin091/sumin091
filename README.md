@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?&height=300§ion=headertype=Waving&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30)
-![header](https://capsule-render.vercel.app/api?type=waving&color=green&height=300§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!😊)
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
